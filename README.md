@@ -2,7 +2,7 @@
 
 A reference solution for **on‑shelf availability (OSA), out‑of‑stock (OOS) detection, planogram compliance, and refill‑job orchestration** using computer vision, machine learning, and Microsoft Fabric for analytics.
 
-The companion architecture diagram is in `retail-shelf-analytics-azure.drawio` (open with [draw.io](https://app.diagrams.net) or the Draw.io Integration VS Code extension).
+The companion architecture diagram is in `retail-shelf-analytics-azure.drawio` (open with [draw.io](https://app.diagrams.net)).
 
 ---
 
@@ -210,8 +210,4 @@ This section captures the architecture-review feedback from Cloud Solution Archi
 
 ---
 
-## 10. How to view the diagram
 
-- **Online:** open https://app.diagrams.net and drag in `retail-shelf-analytics-azure.drawio`.
-- **VS Code:** install the **Draw.io Integration** extension and open the file.
-- The Microsoft Fabric icon in the Notebooks node is embedded inline (data URI), so it renders without needing the Fabric icon library installed.
